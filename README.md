@@ -129,4 +129,4 @@ The goal is to go from **detecting colours** today to building **full-scale AI v
 
 ---
 
-> ⭐ *If you're also a beginner — don't be afraid to start small. The journey to advanced Computer Vision begins with understanding a single pixel.*
+
